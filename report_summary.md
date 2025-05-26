@@ -54,7 +54,7 @@
 ## 👤 Автор
 
 **Имя:** Неверов Тимофей  
-**Email:** [neverovtd@gmail.com](neverovtd@gmail.com)  
+**Email:** [neverovtd@gmail.com](mailto:neverovtd@gmail.com)  
 **GitHub:** [github.com/kossmasssun](https://github.com/kossmasssun)
 
 ---
