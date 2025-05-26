@@ -75,5 +75,5 @@
 ---
 
 ## 🚀 Как посмотреть анализ
-Открой [этот ноутбук в Google Colab](https://colab.research.google.com/drive/1tEAuyLCoLlLP5o-N5bYs1GhHRujht9qD?usp=sharing)  
+Открой [этот ноутбук в Google Colab](https://colab.research.google.com/drive/1tEAuyLCoLlLP5o-N5bYs1GhHRujht9qD?usp=sharing)
 ➡️ Работает прямо в браузере. Установка не требуется.
