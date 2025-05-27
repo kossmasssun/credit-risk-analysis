@@ -42,7 +42,7 @@
 
 Графики построены на основе данных из:
 
-- [data/orders.csv](../../data/orders.csv)
+- [data/orders.csv](../data/orders.csv)
 - [data/payments.csv](../../data/payments.csv)
 - [data/plan.csv](../../data/plan.csv)
 
