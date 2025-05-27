@@ -43,10 +43,10 @@
 Графики построены на основе данных из:
 
 - [data/orders.csv](../data/orders.csv)
-- [data/payments.csv](../../data/payments.csv)
-- [data/plan.csv](../../data/plan.csv)
+- [data/payments.csv](../data/payments.csv)
+- [data/plan.csv](../data/plan.csv)
 
-С подробным описанием содержимого файлов можно ознакомиться в [data/README.md](../../data/README.md).
+С подробным описанием содержимого файлов можно ознакомиться в [data/README.md](../data/README.md).
 
 ---
 
@@ -54,7 +54,7 @@
 
 Пример одного из графиков: Распределение просрочек по дням
 
-![Пример графика](../images/delay_distribution_hist.png)
+![Пример графика](./images/delay_distribution_hist.png)
 
 ---
 
