@@ -46,7 +46,7 @@
 - [data/payments.csv](../data/payments.csv)
 - [data/plan.csv](../data/plan.csv)
 
-С подробным описанием содержимого файлов можно ознакомиться в [data/README.md](../data/README.md).
+С подробным описанием содержимого файлов можно ознакомиться в [data/data_description.md](../data/data_description.md).
 
 ---
 
@@ -65,4 +65,4 @@
 
 ---
 
-ℹ️ Подробнее о проекте — в основном [README проекта](../../README.md)
+ℹ️ Подробнее о проекте — в основном [README проекта](../../../README.md)
