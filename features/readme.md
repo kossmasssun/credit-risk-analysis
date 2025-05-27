@@ -60,7 +60,7 @@
 
 ## 📬 Контакты
 
-👤 Author: Неверов Тимофей
+👤 Author: Неверов Тимофей \
 📧 Email: [neverovtd@gmail.com](mailto:neverovtd@gmail.com)
 
 ---
