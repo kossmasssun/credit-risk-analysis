@@ -54,7 +54,7 @@
 
 Пример одного из графиков: Распределение просрочек по дням
 
-![Пример графика](./images/delay_distribution_hist.png)
+![Пример графика](./images/delay_categories_pie.png)
 
 ---
 
